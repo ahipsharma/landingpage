@@ -3,9 +3,9 @@ import Hero from './components/hero';
 import Slider from './components/Slider';
 import Navbar from './components/Navbar';
 
-import travel_01 from './assets/travel-01.jpg';
-import travel_02 from './assets/travel-02.jpg';
-import travel_03 from './assets/travel-03.jpg';
+import travel_01 from './assets/stock.jpeg';
+import travel_02 from './assets/ent.jpeg';
+import travel_03 from './assets/phone.jpeg';
 
 const navbarLinks = [
   {url: "#", title: "Home"}, 
