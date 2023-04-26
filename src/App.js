@@ -32,7 +32,7 @@ function App() {
         title={"Be an explorer"} 
         // subtitle={"Our platform offers many features"}
         flipped={true} */}
-      />
+      {/* /> */}
       <Slider 
         imageSrc={travel_04} 
         title={"Invest with Confidence"} 
